@@ -1,234 +1,156 @@
-
-# Guia para Iniciantes — 30 Days of Python
+# 🐍 Guia para Iniciantes — 30 Days of Python
 
 <p align="center">
-  <img src="assets/mascote.png" alt="Nossa mascote" width="300">
-</p> 
+  <img src="assets/mascote.png" alt="Nossa mascote" width="280">
+</p>
 
-               Bem-vindo(a)!
-Este guia foi criado para ajudar pessoas que desejam participar do desafio **30 Days of Python**, desenvolvido por Asabeneh Yetayeh.
+<h3 align="center">Um passo de cada vez. Um código de cada vez. 💻</h3>
 
-A proposta é acompanhar o desafio desde a preparação do ambiente até a realização dos exercícios e publicação do progresso no GitHub.
+<p align="center">
+  Bem-vindo(a) à minha jornada pelo Python!
+</p>
 
-Não é necessário ter experiência anterior com programação.
+Este espaço nasceu para acompanhar o desafio **30 Days of Python**, desenvolvido por **Asabeneh Yetayeh**.
+
+A ideia é registrar minha evolução desde a preparação do ambiente até os exercícios, experimentos, erros, descobertas e projetos desenvolvidos durante o aprendizado.
+
+Não é necessário ter experiência anterior com programação. Se você também está começando, pode acompanhar essa jornada!
 
 ---
 
-## 🎯 Objetivo
+## 🚀 Por onde começar?
 
-Aprender Python por meio de exercícios práticos, desenvolver o raciocínio lógico e registrar a evolução durante os estudos.
+Existem duas maneiras de acompanhar o desafio:
 
-Este guia também apresenta ferramentas e procedimentos para quem está começando a utilizar Git, GitHub e Visual Studio Code.
+### 💻 Opção A — Quero apenas estudar
 
-## 1. Antes de começar
+Não precisa ter uma conta no GitHub!
 
-Você poderá acompanhar o desafio de duas maneiras:
+Você vai precisar de:
 
-### Opção A — Quero apenas estudar
-
-Você não precisa ter uma conta no GitHub.
-
-Será necessário:
-- Acessar o repositório público do desafio.
+- Acessar o [repositório original do desafio](https://github.com/Asabeneh/30-Days-Of-Python).
 - Baixar ou clonar os arquivos.
 - Instalar o Python.
 - Instalar o Visual Studio Code.
-- Começar os exercícios.
+- Começar a explorar os exercícios.
 
-### Opção B — Quero estudar e publicar meu progresso
+### 🌱 Opção B — Quero estudar e publicar meu progresso
 
 Além das ferramentas anteriores, você precisará de:
+
 - Uma conta no GitHub.
 - Git instalado no computador.
 - Um repositório próprio para registrar suas atividades.
 
-Com essa opção, você poderá publicar suas soluções e acompanhar seu histórico de contribuições.
+Assim, poderá publicar suas soluções, acompanhar seu histórico e construir seu próprio portfólio de aprendizagem.
 
 ---
 
-## 2. Ferramentas utilizadas
+## 🧰 Minha caixa de ferramentas
 
-| Ferramenta | Finalidade |
+Estas são as ferramentas utilizadas durante o projeto:
+
+| Ferramenta | Para que utilizo |
 |---|---|
-| Python | Linguagem de programação |
-| Visual Studio Code | Editor de código |
-| Git | Controle de versões |
-| GitHub | Hospedagem e compartilhamento do projeto |
+| 🐍 Python | Linguagem de programação |
+| 💙 Visual Studio Code | Escrever e executar códigos |
+| 🔀 Git | Controlar as versões do projeto |
+| 🐙 GitHub | Armazenar e compartilhar meu progresso |
 
 ---
 
-## 3. Nossa metodologia
+## 🧭 Como organizei meus estudos
 
-O desafio será realizado gradualmente:
+Não quero apenas passar pelos conteúdos. Quero compreender, experimentar e conseguir resolver problemas sem depender de exemplos prontos.
 
-1. Ler o conteúdo de cada dia.
-2. Compreender os conceitos apresentados.
-3. Resolver os exercícios propostos.
-4. Testar as soluções.
-5. Registrar dúvidas e aprendizados.
-6. Publicar o progresso no GitHub, se desejar.
+Por isso, organizei minha rotina em ciclos:
 
-**Importante:** não é necessário concluir um dia inteiro de estudos em uma única sessão. O aprendizado deve respeitar o ritmo de cada pessoa.
+<details>
+<summary>📚 <strong>Dois dias de conteúdo novo</strong></summary>
+
+- Leio e observo o conteúdo.
+- Compreendo os conceitos apresentados.
+- Experimento os exemplos.
+- Resolvo exercícios.
+- Registro minhas descobertas e dificuldades.
+
+</details>
+
+<details>
+<summary>🧠 <strong>Um dia de revisão e fixação</strong></summary>
+
+- Retomo os conteúdos estudados.
+- Resolvo exercícios sem consultar exemplos.
+- Pratico a construção de códigos.
+- Identifico o que já consigo fazer sozinha.
+- Reforço os pontos em que ainda tenho dificuldade.
+
+</details>
+
+🔁 Depois, o ciclo recomeça com novos conteúdos.
+
+**Uma coisa importante:** não preciso concluir um dia inteiro em uma única sessão. Meu aprendizado acontece no meu ritmo, sem corrida contra o calendário.
 
 ---
 
-*Este guia será atualizado progressivamente conforme avançarmos nas etapas do desafio.*
-# 🐍 30 Days of Python — Dia 1
-## Introdução
+## 🗺️ Acompanhe minha evolução
 
-**Referência:** [Asabeneh Yetayeh — 30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/Portuguese/README.md)
+Aqui você poderá acompanhar cada etapa do desafio e conhecer um pouco do que acontece nos bastidores do aprendizado.
 
-O primeiro dia foi dedicado à introdução ao Python, ao ambiente de desenvolvimento e aos primeiros comandos.
+<blockquote>
 
-## 1. Preparando o ambiente
+### 🚀 [Comece pelo Dia 1](01_Day_Introduction/)
 
-Utilizamos:
-- Python 3.15.2
-- Visual Studio Code
-- PowerShell
+Entre na primeira etapa e acompanhe o início da jornada.
 
-Para verificar a versão instalada no Windows:
+</blockquote>
 
-```bash
-python --version
-```
+### 📓 Diário de Soluções
 
-Se esse comando não funcionar, tente:
+Cada dia terá seu próprio diário, onde registro:
 
-```bash
-py --version
-```
+- Os erros que encontrei.
+- As tentativas que fiz.
+- As pistas que me ajudaram.
+- As soluções que descobri.
+- O que aprendi com cada dificuldade.
 
-O Python Shell é o ambiente interativo, identificado pelo símbolo `>>>`. Nele, podemos digitar comandos e ver os resultados imediatamente.
+### 🧩 Exercícios de Revisão
 
-## 2. Level 1 — Python Shell
+A cada dois dias de conteúdo novo, haverá uma pasta dedicada à revisão e à fixação.
 
-**Exercício 1 — Versão do Python**
+Não será apenas uma lista de respostas: também registrarei minhas tentativas, dificuldades e soluções.
 
-Verificamos a versão instalada: Python 3.15.2.
+---
 
-**Exercício 2 — Operações matemáticas**
+## 😳 Errar faz parte do código!
 
-Utilizamos os números 3 e 4:
+<p align="center">
+  <img src="assets/mascote-erros.png" alt="Mascotinha envergonhada diante do computador" width="220">
+</p>
 
-| Operação | Resultado |
-|---|---:|
-| `3 + 4` | 7 |
-| `3 - 4` | -1 |
-| `3 * 4` | 12 |
-| `3 % 4` | 3 |
-| `3 / 4` | 0.75 |
-| `3 ** 4` | 81 |
-| `3 // 4` | 0 |
+Nem sempre o código funciona de primeira. Às vezes falta um parêntese, uma variável recebe o tipo errado ou uma ideia que parecia simples acaba dando trabalho.
 
-O operador `%` retorna o resto da divisão; `**` representa potência; e `//` realiza divisão inteira, descartando a parte decimal.
+E está tudo bem!
 
-**Exercício 3 — Strings**
+Quero registrar também esses momentos, porque entender um erro e descobrir como resolvê-lo faz parte de aprender a programar.
 
-Praticamos textos no Python Shell:
+**Aqui, os erros não serão escondidos. Serão documentados!** 😂
 
-```python
-"Diná"
-"Ribeiro"
-"Brasil"
-"Estou adorando esse aprendizado."
-```
+---
 
-Uma *string* é um texto escrito entre aspas simples ou duplas.
+## ✨ O que quero construir com essa jornada?
 
-**Exercício 4 — Tipos de dados**
+Mais do que concluir um desafio de 30 dias, quero desenvolver autonomia, raciocínio lógico e confiança para criar meus próprios projetos.
 
-Utilizamos a função `type()` para identificar os tipos:
+Este repositório será meu registro de evolução: com códigos que funcionaram, outros que deram trabalho e muitas descobertas pelo caminho.
 
-```python
-type(10)
-type(9.8)
-type(3.14)
-type(4 - 4j)
-type(['Asabeneh', 'Python', 'Finland'])
-type("Diná")
-type("Ribeiro")
-type("Brasil")
-```
+<p align="center">
+  <strong>Não preciso saber tudo hoje. Só preciso continuar aprendendo. 💜</strong>
+</p>
 
-## 3. Level 2 — Arquivo Python
+---
 
-Criamos o arquivo:
-
-`30DaysOfPython/day_1/helloworld.py`
-
-Repetimos os exercícios anteriores, agora dentro de um arquivo `.py`.
-
-A principal diferença é que, no arquivo, usamos `print()` para exibir os resultados.
-
-Exemplo:
-
-```python
-print(3 + 4)
-print(type(10))
-print("Estou adorando esse aprendizado.")
-```
-
-Para executar pelo terminal:
-
-```bash
-python helloworld.py
-```
-
-## 4. Level 3 — Tipos de dados e distância euclidiana
-
-**Exercício 1 — Exemplos de tipos de dados**
-
-Conhecemos os principais tipos:
-
-| Tipo | Exemplo |
-|---|---|
-| Inteiro (`int`) | `10` |
-| Decimal (`float`) | `3.14` |
-| Complexo (`complex`) | `4 - 4j` |
-| Texto (`str`) | `"Python"` |
-| Booleano (`bool`) | `True` |
-| Lista (`list`) | `[1, 2, 3]` |
-| Tupla (`tuple`) | `(1, 2, 3)` |
-| Conjunto (`set`) | `{1, 2, 3}` |
-| Dicionário (`dict`) | `{"nome": "Diná"}` |
-
-**Exercício 2 — Distância euclidiana**
-
-Calculamos a distância entre os pontos `(2, 3)` e `(10, 8)`.
-
-```python
-x1, y1 = 2, 3
-x2, y2 = 10, 8
-
-distancia = ((x2 - x1)**2 + (y2 - y1)**2) ** 0.5
-
-print(distancia)
-```
-
-Resultado:
-
-```text
-9.433981132056603
-```
-
-O operador `**` representa potência. Quando usamos `** 0.5`, calculamos a raiz quadrada do valor.
-
-## 5. Se algo não funcionar
-
-- **Python não é reconhecido:** tente `py --version`. Se também falhar, verifique a instalação e a configuração do Python no Windows.
-- **Arquivo não encontrado:** confira se o terminal está na pasta `day_1` antes de executar o comando.
-- **Resultado não aparece:** confira se utilizou `print()` no arquivo.
-- **Erro de indentação:** verifique os espaços no início das linhas e mantenha a estrutura do código.
-
-Uma boa prática é ler a mensagem de erro, localizar a linha indicada e verificar o código antes de fazer alterações.
-
-## 6. Conclusão do Dia 1
-
-Neste primeiro dia, pratiquei operações matemáticas, strings, identificação de tipos de dados e execução de arquivos Python.
-
-Também tive meu primeiro contato com a distância euclidiana, relacionando os pontos de um plano cartesiano com um cálculo feito em Python.
-
-**Status:** Dia 1 concluído. 🐍
-
-Próximo passo: Dia 2 — Variáveis e funções integradas.
+<p align="center">
+  <sub>🐍 Projeto de aprendizagem — 30 Days of Python</sub>
+</p>
