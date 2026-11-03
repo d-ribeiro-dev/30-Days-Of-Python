@@ -1,0 +1,177 @@
+# Revisão dos Dias 1 e 2 — Python
+
+**Data:** 03/11/2026  
+**Conteúdos revisados:** Introdução ao Python e Variáveis e funções integradas.
+
+## 1. Objetivo da revisão
+
+Realizei uma revisão dos conteúdos estudados nos Dias 1 e 2 do desafio 30 Days of Python, com o objetivo de verificar minha compreensão dos conceitos e identificar os assuntos que ainda precisam de atenção antes de avançar.
+
+Utilizei exercícios com exemplos diferentes dos estudados inicialmente, procurando compreender o funcionamento do código em vez de apenas memorizar respostas.
+
+## 2. O que revisei e compreendi
+
+### Tipos de dados e conversões
+
+Revisei os principais tipos de dados utilizados no Python:
+
+- `int`: números inteiros.
+- `float`: números decimais.
+- `str`: textos.
+- `bool`: valores booleanos.
+
+Também pratiquei conversões de tipos:
+
+- `int()`: conversão para inteiro.
+- `float()`: conversão para decimal.
+- `str()`: conversão para texto.
+
+Compreendi que a conversão de um valor não modifica automaticamente a variável original.
+
+### Função `type()`
+
+Verifiquei que `type()` identifica o tipo de dado armazenado em uma variável.
+
+Exemplo:
+
+```python
+preco = 18.50
+
+print(preco)
+print(type(preco))
+```
+
+O primeiro `print()` apresenta o valor. O segundo apresenta o tipo do dado (`float`).
+
+### Operações e concatenação
+
+Reforcei a diferença entre operações matemáticas e concatenação de textos.
+
+```python
+# Soma
+10 + 5
+
+# Concatenação
+"Python" + "!"
+
+# Conversão antes da soma
+int("10") + 5
+```
+
+Compreendi que o operador `+` pode somar números ou unir textos, dependendo dos tipos envolvidos.
+
+### Variáveis e atribuições
+
+Pratiquei atribuições e alterações de valores.
+
+Verifiquei que, quando uma variável recebe o valor de outra, uma alteração posterior na primeira não modifica automaticamente a segunda.
+
+### Funções e métodos
+
+Reforcei a diferença entre:
+
+- `len()`: função integrada do Python.
+- `.append()`: método utilizado em listas.
+
+### Listas, conjuntos e dicionários
+
+Revisei:
+
+- Inclusão de elementos em listas com `.append()`.
+- Remoção de duplicatas utilizando `set()`.
+- Acesso aos valores de um dicionário por meio de suas chaves.
+
+### Tratamento de erros
+
+Revisei três tipos de erros:
+
+- `ValueError`: quando o valor fornecido não é adequado para a operação.
+- `TypeError`: quando uma operação é realizada entre tipos incompatíveis.
+- `AttributeError`: quando tento acessar um atributo ou método que o objeto não possui.
+
+## 3. Exemplos práticos que trabalhei
+
+### Conversão e cálculo
+
+```python
+preco = "20"
+quantidade = 3
+
+total = int(preco) * quantidade
+
+print(total)
+print(type(total))
+```
+
+Resultado:
+
+```text
+60
+<class 'int'>
+```
+
+### Conversão e concatenação
+
+```python
+nome = "Diná"
+idade = 44
+
+mensagem = nome + str(idade)
+
+print(mensagem)
+```
+
+Resultado:
+
+```text
+Diná44
+```
+
+### Conversão decimal
+
+```python
+preco = "45.50"
+quantidade = 2
+
+total = float(preco) * quantidade
+
+print(total)
+```
+
+Resultado:
+
+```text
+91.0
+```
+
+## 4. Pontos que identifiquei como consolidados
+
+Durante a revisão, demonstrei boa compreensão de:
+
+- Identificação de tipos básicos.
+- Conversão de textos numéricos para números.
+- Utilização de `float()` em cálculos.
+- Operações com listas.
+- Utilização de conjuntos para eliminar duplicatas.
+- Acesso aos valores de dicionários.
+- Identificação de `TypeError` em operações incompatíveis.
+
+## 5. Pontos que ainda preciso reforçar
+
+Identifiquei que preciso continuar praticando:
+
+- Diferença entre concatenação e soma.
+- Identificação do tipo do resultado de uma operação.
+- Diferença entre funções e métodos.
+- Distinção entre `ValueError`, `TypeError` e `AttributeError`.
+- Comportamento das variáveis após atribuições e conversões.
+
+## 6. Conclusão
+
+Concluí a revisão dos conteúdos dos Dias 1 e 2.
+
+Percebi que consigo interpretar diversas operações e identificar o funcionamento de diferentes estruturas do Python. Também identifiquei que preciso prestar mais atenção aos tipos de dados envolvidos nas operações e aos resultados produzidos.
+
+A revisão foi importante para identificar minhas dificuldades sem precisar repetir todos os exercícios originais.
+
+**Próxima etapa: Dia 3 — Operators (Operadores).**
