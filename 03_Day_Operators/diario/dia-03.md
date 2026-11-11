@@ -309,25 +309,6 @@ Percebi que alguns operadores são fáceis de confundir quando aparecem juntos e
 
 Também identifiquei que alguns exercícios apresentados durante a aula não correspondiam exatamente aos enunciados originais do repositório. Esse registro evita confundir as atividades que pratiquei com a lista oficial.
 
-## 8. Revisão realizada em 11/11/2026
+**Próxima etapa:** Dia 4 — Strings.
 
-Retomei o conteúdo do Dia 3 em uma revisão com questões aleatórias, conforme o ciclo de estudos combinado.
-
-**Resultado da revisão:** 13 acertos em 17 questões.
-
-Os erros identificados envolveram:
-- Diferença entre divisão inteira (`//`) e resto da divisão (`%`).
-- Multiplicação de strings.
-- Interpretação do operador lógico `not`.
-- Fatiamento (*slicing*).
-- Combinação de `and` com operadores de comparação.
-
-A revisão serviu para identificar pontos que precisam de prática adicional. As questões foram de revisão, não uma repetição da lista oficial de exercícios do Dia 3.
-
-## 9. Conclusão e próxima etapa
-
-Em 11/11/2026, retomei os operadores por meio de questões aleatórias e identifiquei os conceitos que ainda exigem reforço.
-
-Na mesma sessão, também dei continuidade aos exercícios oficiais do Dia 4 — Strings, registrados no diário correspondente.
-
-**Próxima etapa:** reforçar os pontos identificados na revisão e continuar a sequência oficial de Strings a partir da questão 15.
+Após concluir o Dia 4, farei a revisão prática dos Dias 3 e 4, incluindo os enunciados oficiais que precisam ser trabalhados exatamente como estão no material original.
