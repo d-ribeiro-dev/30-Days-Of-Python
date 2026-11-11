@@ -62,37 +62,12 @@ Alguns conteúdos foram praticados em exercícios com correções e dicas. Por i
 
 Os pontos que merecem atenção especial na revisão são as buscas e os índices, principalmente a diferença entre primeira e última ocorrência.
 
-## 5. Retomada dos exercícios oficiais — 11/11/2026
+## 5. Encerramento do Dia 4
 
-Nesta sessão, dei continuidade à lista oficial de Strings do arquivo `04_strings.md`, mantendo a ordem dos exercícios.
+Concluí o estudo do conteúdo de Strings previsto para este dia.
 
-Concluí os exercícios 11 a 14:
+Como o tempo disponível está reduzido, decidi aproveitar os exercícios já realizados durante as aulas, em vez de repetir uma nova lista de fixação.
 
-- **Exercício 11:** substituição de `Coding` por `Python` com `replace()`.
-- **Exercício 12:** substituição de `Everyone` por `All`.
-- **Exercício 13:** separação de `Coding For All` usando o espaço como separador com `split(' ')`.
-- **Exercício 14:** separação da lista de empresas usando vírgula seguida de um espaço como separador: `split(', ')`.
+Os 36 exercícios oficiais do arquivo `04_strings.md` ficarão para a revisão prática dos Dias 3 e 4, programada para 10/11/2026.
 
-Reforcei que strings são imutáveis: métodos como `replace()` e `split()` retornam um novo resultado; para manter esse resultado na variável, preciso atribuí-lo novamente.
-
-## 6. Avaliação e pontos para reforçar
-
-Também respondi a uma avaliação de múltipla escolha relacionada aos exercícios seguintes. Como o questionário apresentou problemas na fidelidade de algumas questões e alternativas, não vou considerar a pontuação obtida como uma avaliação definitiva do meu domínio do conteúdo.
-
-Os assuntos que merecem nova verificação prática são:
-
-- Cálculo do último índice de uma string.
-- Formação de siglas.
-- Identificadores válidos com `isidentifier()`.
-- Formatação de strings com cálculos.
-- Diferença entre divisão comum (`/`) e divisão inteira (`//`).
-
-Esses pontos ficam registrados como hipóteses de reforço a verificar com exercícios de código, e não como diagnóstico definitivo baseado naquele questionário.
-
-## 7. Próxima etapa
-
-Continuar os exercícios oficiais do Dia 4 a partir da questão 15, preservando os enunciados e a ordem do material original.
-
-Depois, praticar os pontos que exigirem reforço com pequenos códigos, verificando a compreensão na execução e não apenas pelo reconhecimento de alternativas.
-
-**Status:** exercícios oficiais 11 a 14 concluídos nesta sessão; sequência do Dia 4 em andamento.
+**Próxima etapa:** revisão dos operadores e das strings, com resolução dos exercícios oficiais pendentes e avaliação do conteúdo aprendido.
